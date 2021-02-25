@@ -7,6 +7,7 @@
 
 Le calculateur de potes comme son nom l'indique permet de classer ses amis par ordre d'apparition et fréquence dans votre vie 
 
+<<<<<<< HEAD
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
@@ -18,3 +19,12 @@ Le calculateur de potes comme son nom l'indique permet de classer ses amis par o
 - Déterminer quels sont nos amis les plus proches
 
 
+=======
+## Features
+
+- Créer des points pour les interactions réalisées avec ses amis
+- Ajouter de nouvelles interactions
+- Déterminer quels sont nos amis les plus proches
+
+
+>>>>>>> a8e745ab04223267f56179a946f8c71c10fcff5a
