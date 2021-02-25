@@ -59,8 +59,7 @@ function MesPotos() {
   }
 
   const ajouterPoto = (nouveauPoto) => {
-    potos.push(nouveauPoto);
-    setPotos(potos);
+    setPotos([...potos, nouveauPoto]);
   }
 
   const sortedPotos = potos.sort(function (a, b) {
