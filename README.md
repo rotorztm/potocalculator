@@ -7,10 +7,6 @@
 
 Le calculateur de potes comme son nom l'indique permet de classer ses amis par ordre d'apparition et fréquence dans votre vie 
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
 ## Features
 
 - Créer des points pour les interractions réalisées avec ses amis
