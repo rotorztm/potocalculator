@@ -9,7 +9,7 @@ Le calculateur de potes comme son nom l'indique permet de classer ses amis par o
 
 ## Features
 
-- Créer des points pour les interractions réalisées avec ses amis
+- Créer des points pour les interactions réalisées avec ses amis
 - Ajouter de nouvelles interactions
 - Déterminer quels sont nos amis les plus proches
 
