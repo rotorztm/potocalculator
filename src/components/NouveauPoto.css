@@ -1,0 +1,15 @@
+.mainNouveauPoto{
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: column wrap;
+    gap:10px;
+}
+
+
+
+.element{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    gap:10px;
+}

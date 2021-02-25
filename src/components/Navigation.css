@@ -1,0 +1,13 @@
+.NavBar {
+  background-color: cornflowerblue;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+}
+a {
+  text-decoration: none;
+}
